@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Devasena Vangavolu — AI Portfolio</title>
+    <link rel="icon" href="/favicon.ico" />
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Manrope:wght@500;700&display=swap" rel="stylesheet">
+
+    <style>
+      :root{
+        --bg: #f7f9fc;               /* page background */
+        --card: #ffffff;             /* container */
+        --text: #1f2937;             /* primary text */
+        --muted: #6b7280;            /* secondary text */
+        --brand: #5b8def;            /* accent */
+        --brand-2: #a7d0ff;          /* soft accent */
+        --ring: rgba(91, 141, 239, 0.25);
+        --shadow: 0 10px 30px rgba(17, 24, 39, 0.08);
+        --radius: 16px;
+      }
+
+      /* Soft radial background */
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: "Inter", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+        color: var(--text);
+        background:
+          radial-gradient(1200px 800px at 20% -10%, #eaf2ff 0%, transparent 60%),
+          radial-gradient(900px 700px at 100% 0%, #fff4ea 0%, transparent 60%),
+          var(--bg);
+        display: grid;
+        place-items: center;
+        padding: 24px;
+      }
+
+      /* Container */
+      #shell {
+        width: 100%;
+        max-width: 900px;
+        min-height: 80vh;
+        background: var(--card);
+        border-radius: var(--radius);
+        box-shadow: var(--shadow);
+        border: 1px solid #eef2f7;
+        overflow: hidden;
+        display: grid;
+        grid-template-rows: auto 1fr auto;
+      }
+
+      /* Header */
+      header {
+        padding: 28px 28px 12px;
+        border-bottom: 1px solid #eef2f7;
+        background:
+          linear-gradient(180deg, #ffffff 0%, #ffffff 65%, rgba(255,255,255,0.85) 100%);
+      }
+
+      .title {
+        font-family: "Manrope", Inter, sans-serif;
+        font-weight: 700;
+        font-size: 1.6rem;
+        letter-spacing: 0.2px;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .badge {
+        font-size: 0.9rem;
+        font-weight: 600;
+        color: #2c3e50;
+        background: linear-gradient(180deg, #eaf2ff, #dfeeff);
+        border: 1px solid #d1e3ff;
+        padding: 6px 10px;
+        border-radius: 999px;
+      }
+
+      .subtitle {
+        margin: 8px 0 0;
+        color: var(--muted);
+        font-size: 0.98rem;
+      }
+
+      /* Main where React mounts */
+      main {
+        padding: 20px 24px;
+        background:
+          radial-gradient(600px 450px at 80% 10%, rgba(167,208,255,0.25) 0%, transparent 70%),
+          radial-gradient(450px 350px at 10% 30%, rgba(255,220,200,0.25) 0%, transparent 70%),
+          #ffffff;
+      }
+
+      /* Root where your Chat UI renders */
+      #root {
+        outline: none;
+      }
+
+      /* Footer */
+      footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 12px;
+        padding: 16px 24px;
+        border-top: 1px solid #eef2f7;
+        color: var(--muted);
+        font-size: 0.9rem;
+        background: #fff;
+      }
+
+      .links {
+        display: flex;
+        gap: 14px;
+        align-items: center;
+      }
+
+      a {
+        color: var(--brand);
+        text-decoration: none;
+        font-weight: 500;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+
+      /* Small helper chip you can reuse in React */
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 10px;
+        border-radius: 12px;
+        background: #f3f7ff;
+        border: 1px solid #e7efff;
+        color: #3b4a66;
+        font-size: 0.9rem;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.6);
+      }
+
+      /* Make inputs/buttons (in your Chatbot) feel native to the theme */
+      :where(input, textarea, button) {
+        font-family: inherit;
+      }
+
+      /* Optional: selection color */
+      ::selection{
+        background: var(--brand-2);
+      }
+
+      /* Responsive tweaks */
+      @media (max-width: 640px){
+        header { padding: 22px 18px 10px; }
+        main   { padding: 16px 18px; }
+        footer { padding: 14px 18px; }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="shell">
+      <header>
+        <h1 class="title">
+          Devasena Vangavolu
+          <span class="badge">Personal Assistant AI</span>
+        </h1>
+        <p class="subtitle">Ask me anything about Devasena's projects, experience, certifications, interests or skills.</p>
+      </header>
+
+      <main>
+        <!-- React mounts your Chat UI here -->
+        <div id="root" aria-live="polite"></div>
+      </main>
+
+      <footer>
+        <span>© 2025 Devasena Vangavolu</span>
+        <div class="links">
+          <span class="chip"></span>
+          <a href="mailto:vdevasena1997@gmail.com" rel="noopener">Contact</a>
+          <a href="https://www.linkedin.com/in/devasenavangavolu" target="_blank" rel="noopener">LinkedIn</a>
+        </div>
+      </footer>
+    </div>
+
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

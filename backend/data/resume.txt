@@ -1,0 +1,51 @@
+  
+Devasena Vangavolu    
+vdevasena1997@gmail.com|281-745-3445| New Jersey, USA (Open to Relocate) |  
+ 
+PROFESSIONAL PROFILE:    
+•	Senior Data Scientist with 5+ years of experience in Marketing Analytics, Customer Insights, and Banking/Financial Services, delivering Client-focused data solutions across B2B and B2C industries. 
+•	Proficient in SQL, Python, R, Tableau, and Machine Learning/AI for scalable analytics and predictive modeling. Skilled in Azure, AWS, Microsoft Fabric, and CRM integration for cloud-based analytics and reporting. 
+•	Proven expertise in translating business needs into technical solutions through robust data analysis, strategic problemsolving, and cross-functional stakeholder collaboration. 
+•	Strong foundation in enterprise data governance, data quality management, and end-to-end analytics delivery across complex data ecosystems. 
+ 
+TECHNICAL SKILLS:    
+Languages & BI Tools: SQL, Python, R, Tableau, Power BI. ML/AI Expertise: Classification, Regression, Clustering, Recommendation Systems, Predictive Modeling, Model Optimization (Hyperparameter tuning, Cross-validation), Statistical Analysis (Hypothesis Testing, ANOVA, Sampling), LLM, RAG. Cloud & Big Data: Azure (Databricks, Data Factory), AWS (Redshift), Microsoft Fabric, dbt. Other: Embedding Models, CRM Analytics (Salesforce, Dynamics), Git, CI/CD, Agile, JIRA, Confluence, GMC Inspire Designer 14.0/12.0 BIRT Tool, Document Migration, Pragma Stub, Batch Upload Program. 
+  
+WORK EXPERIENCE: 
+EXL Services 
+Senior Data Scientist 	 	 	 	 	August 2021 – Present 
+•	Designing a scalable GenAI-based entity matching solution for over 1M company records, leveraging embedding models, clustering, and similarity scoring to automate entity resolution, and significantly reducing manual data reconciliation efforts.  
+•	Designing and implementing scalable API integration pipelines leveraging Bruno for testing and validation, enabling automated data enrichment and ensuring accurate mapping across multiple systems.  
+•	Enriched customer and company datasets by integrating external sources such as PitchBook, D&B, CapIQ, and ZoomInfo, enhancing dataset completeness, accuracy, and usability for marketing and analytics campaigns. 
+•	Developed 7+ executive-level Tableau dashboards integrating Salesforce and Dynamics CRM data via Azure pipelines, providing actionable insights into firmographics, demographics, eligibility criteria, and marketing performance metrics. 
+•	Led A/B testing and ROI-driven analyses on marketing campaigns, identifying key drivers of engagement and conversion, resulting in measurable improvements in campaign performance and resource allocation. 
+•	Strategized and deployed a centralized marketing data lake using Azure Databricks, Python, and Data Factory, enabling end-to-end campaign analytics, unified reporting, and self-service data access for marketing teams. 
+•	Performed fuzzy matching, string similarity analysis, and data cleansing on ZoomInfo datasets using Python (NumPy, Pandas, FuzzyWuzzy, and record linkage techniques), standardizing company names, addresses, and contacts for improved downstream data reliability. 
+•	Increased customer engagement and campaign effectiveness by 30% through a collaborative filtering recommendation 
+•	system that provided personalized product suggestions based on purchase behavior. 
+•	Boosted holiday-season sales by 12% and reduced overstock by 18% by segmenting 500K+ CPG customers across 50+ product categories using clustering and predictive modeling, enabling targeted campaigns and optimized inventory. 
+•	Developed a live event attendance prediction model using Random Forest and Gradient Boosting Regressors, achieving an R² score of 0.78 for events across the USA.  
+•	Migrated and optimized legacy datasets from Gold to Silver tables, improving data consistency, query performance, and maintainability across analytics pipelines. 
+•	Rewrote SQL code for modularity and reusability, implementing incremental data models using dbt and integrating them into CI/CD pipelines for seamless deployment and version control. 
+•	Supervised and mentored a 3-member developer team, overseeing SQL code reviews, UAT, and incremental table builds to ensure high-quality, timely deliverables. 
+Tata Consultancy Services  
+Data Analyst Associate  	 	 	 	 	 	 	                                               June 2018- July 2019  
+•	Designed and developed automated and manual templates using GMC Inspire Designer, Interactive, and PRAGMA, incorporating dynamic content, conditional logic, and Parent/Master-Child workflows to handle complex business requirements. 
+•	Developed and scripted multi-condition logic and file linking using HTML, JavaScript, and XML/XSD, enabling dynamic content rendering and seamless data integration. 
+•	Implemented automation scripts for data collection from templates and tickets, updating backend databases and ensuring real-time synchronization. 
+•	Built and deployed on-demand templates using BIRT (Eclipse), ensuring scalability, performance optimization, and smooth integration into production environments. 
+•	Created reusable logic to handle multi-file linking, page parity conditions, and single-file triggers, ensuring modular and maintainable code structure. 
+•	Collaborated closely with BANCs, requirement, and QA teams to gather business needs, document user stories in DevPlus, and support Agile sprint planning through requirement analysis and walkthroughs. 
+•	Created Power BI dashboards for claims and underwriting processes, identifying operational bottlenecks to cut delays. 
+•	Executed SQL-based policy data analysis for 100+ contracts, enhancing reporting automation and operational insights. 
+ 
+ACADEMIC WORK: 
+University of Houston 
+Data and Reporting Analyst – ISSSO  	    	        	    	                                                   December 2019 – May 2021        
+•	Delivered analytical support for international student services, using Tableau dashboards to identify operational gaps and drive a 20% improvement in satisfaction metrics. 
+•	Applied clustering and TF-IDF sentiment analysis to behavioral and engagement datasets, enabling targeted orientation planning. 
+•	Served as primary contact for ad hoc reporting and data visualization requests across multiple departments. 
+ 	 	 EDUCATION:    
+University of Houston 
+Masters in Computer and Information Science (Major: Data Science)  
+Coursework: Machine Learning, Data Mining, Statistical Method in Research, Big Data Analytics, Artificial Intelligence, Research Design for Problems in Business Analytics, Digital Image Processing, Security Analytics. 
