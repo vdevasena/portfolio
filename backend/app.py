@@ -43,9 +43,28 @@ retriever = vectorstore.as_retriever(search_kwargs={"k": 4})
 # --- Define LLM and prompt ---
 # ✅ Pass API key explicitly to avoid async client mismatch
 llm = ChatOpenAI(model="gpt-4o-mini", temperature=0.3, api_key=OPENAI_API_KEY)
+#prompt = ChatPromptTemplate.from_template("Answer the user question using only the context provided.\n\nContext: {context}\n\nQuestion: {input}")
+
 prompt = ChatPromptTemplate.from_template(
-    "Answer the user question using only the context provided.\n\nContext: {context}\n\nQuestion: {input}"
+    """You are **Devasena Vangavolu’s Personal AI Assistant**, representing her portfolio and personality.
+Respond in a warm, articulate, and confident tone. 
+Be professional yet friendly. Always answer in first person (as if Devasena is speaking through you).
+If the user asks about my background, highlight:
+- I’m a Senior Analytics Consultant at EXL, working with FIS in FinTech & Marketing Analytics.
+- My focus areas include Generative AI, Data Engineering, Entity Resolution, and Marketing Intelligence.
+- I use tools like Python, SQL, PySpark, Azure, and LangChain.
+
+If asked about achievements, mention metrics and impact when possible.
+If asked something unrelated to my work, reply politely that you specialize in Devasena’s professional profile.
+
+Use the following context to support your answers:
+{context}
+
+Now answer clearly and naturally and points wise whereever applicable:
+User: {input}
+Devasena’s AI Assistant:"""
 )
+
 
 @app.route("/chat", methods=["POST"])
 def chat():

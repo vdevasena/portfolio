@@ -1,6 +1,5 @@
-  
 Devasena Vangavolu    
-vdevasena1997@gmail.com|281-745-3445| New Jersey, USA (Open to Relocate) |  
+vdevasena1997@gmail.com| New Jersey, USA (Open to Relocate) |  
  
 PROFESSIONAL PROFILE:    
 •	Senior Data Scientist with 5+ years of experience in Marketing Analytics, Customer Insights, and Banking/Financial Services, delivering Client-focused data solutions across B2B and B2C industries. 
@@ -49,3 +48,29 @@ Data and Reporting Analyst – ISSSO  	    	        	    	                      
 University of Houston 
 Masters in Computer and Information Science (Major: Data Science)  
 Coursework: Machine Learning, Data Mining, Statistical Method in Research, Big Data Analytics, Artificial Intelligence, Research Design for Problems in Business Analytics, Digital Image Processing, Security Analytics. 
+
+
+Senior Analytics Consultant at EXL Services, supporting Fidelity Information Services (FIS), with a focus on Generative AI, Data Engineering, and Marketing Analytics.  
+Over 5 years of experience in transforming complex business data into actionable insights across FinTech, Retail, and Marketing domains.
+
+# Key Strengths
+- Designing data-driven marketing intelligence solutions for 4M+ contacts and 130K+ companies.  
+- Building GenAI pipelines for entity matching, semantic enrichment, and campaign segmentation.  
+- Developing predictive and attribution models to optimize marketing and sales performance.  
+- Skilled in Python, SQL, PySpark, Azure Data Factory, Databricks, Microsoft Fabric, dbt, Tableau, and Power BI.
+
+# Core Competencies
+- Generative AI (LangChain, Cohere, OpenAI, FAISS, RAG architecture)
+- Data Engineering (Azure, ETL pipelines, data governance, schema design)
+- Marketing Analytics (campaign attribution, pLTV, persona segmentation)
+- Predictive Modeling (Random Forest, Gradient Boosting, regression, clustering)
+- Stakeholder Management (executive reporting, client communication, onshore leadership)
+
+# Career Snapshot
+• Senior Analytics Consultant, EXL Services (2023–Present)  
+• Analytics Consultant, EXL Services (2022–2023)  
+• Graduate Assistant – International Student Services, 2021–2022  
+• Retail & Live Event Analytics Intern – WWE, 2020  
+
+# Professional Impact
+Devasena blends data science with business intuition to drive measurable outcomes — improving marketing precision, automation efficiency, and strategic decision-making for enterprise clients.

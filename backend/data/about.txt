@@ -1,1 +1,37 @@
-Devasena Vangavolu — Analytics & GenAI Portfolio. Upload resume and project summaries here.
+# Devasena Vangavolu — Key Professional Achievements
+
+1️⃣ 🚀 GenAI Entity Matching Engine  
+• Spearheaded design and deployment of a GenAI-powered entity-resolution pipeline for 1 million+ company records using Cohere embeddings, FAISS clustering and DBSCAN.  
+• Achieved > 90 % matching accuracy and reduced manual review effort by 60 %.  
+• Integrated with Azure Fabric and Databricks for marketing data-lake standardization.
+
+2️⃣ 📈 Marketing Analytics & Persona Enrichment  
+• Built audience-enrichment and persona segmentation framework leveraging firmographic and behavioral attributes from Salesforce and Dynamics.  
+• Delivered 4 high-value customer segments that increased campaign targeting precision by ~25 %.  
+• Developed “Growth Vector Dashboards” for executive reviews and CEO QBRs.
+
+3️⃣ 🎯 Live Event Attendance Prediction Model  
+• Developed Random Forest & Gradient Boosting Regressors for WWE live-event attendance forecasting across U.S. venues.  
+• Achieved R² ≈ 0.78, improving inventory recommendations and reducing overstock by ~18 %.  
+• Insights drove a 12 % sales increase during holiday campaign cycles.
+
+4️⃣ 📊 Dashboard & Reporting Leadership  
+• Managed 5 core marketing and persona dashboards in Tableau and Power BI, handling data migrations to Microsoft Fabric.  
+• Delivered real-time executive metrics for campaign performance, vertical proof points and growth KPIs.  
+• Recognized with “Challenging Newcomer Award” for rapid impact within first six months at EXL.
+
+5️⃣ 🤝 Cross-Functional Collaboration & Leadership  
+• Led onshore client meetings and collaborated with offshore teams for data governance and pipeline automation.  
+• Coordinated COE training sessions and “Lunch & Learn” knowledge shares on AI and LangChain use cases.  
+• Played key role in preparing proof points for four vertical industries to support marketing modernization initiatives.
+
+6️⃣ 🎓 Certifications & Recognition  
+• Databricks Certified Data Analyst Associate (2024).  
+• Azure Fabric Automation and Power Platform AI training completed.  
+• Awarded EXL client recognition for “Exceptional Analytical Support” in marketing data engineering.
+
+---
+
+# Summary Impact
+Devasena Vangavolu combines data engineering, machine learning and marketing analytics expertise to translate complex data into business impact for large financial clients like FIS and retail brands such as WWE.  
+She drives insight-led decision-making, improves data governance, and implements scalable AI solutions for measurable growth.
