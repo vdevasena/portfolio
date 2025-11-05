@@ -1,14 +1,7 @@
 # Certifications & Technical Training
 
-• Databricks Certified Data Analyst Associate — 2024  
-• Microsoft Azure Fundamentals (AZ-900) — 2023  
-• Power Platform AI and Automation Training — EXL Center of Excellence, 2024  
-• LangChain for LLM Applications — 2024  
-• Advanced SQL for Data Analytics — 2022  
-• Tableau Desktop Specialist — 2022  
-• Python for Machine Learning (Coursera) — 2021  
-
-# Highlights
-• Recognized for implementing Fabric automation and persona-building workflows at EXL–FIS.  
-• Regular contributor to EXL “Lunch & Learn” sessions on AI, RAG, and entity matching.  
-• Actively pursuing Databricks Generative AI certification in 2025.
+• A/B Testing and Experimentation (Udacity) 
+• Tableau Essential Training (LinkedIn) 
+• Databricks Certified Generative AI Engineer Associate 
+• Databricks Certified Data Analyst Associate 
+• Generative AI: Working with Large Language Models.
