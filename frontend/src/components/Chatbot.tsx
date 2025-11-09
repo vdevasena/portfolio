@@ -55,7 +55,7 @@ export default function Chatbot() {
       >
         {messages.length === 0 && (
           <p style={{ color: '#6366f1', textAlign: 'center', marginTop: 100 }}>
-            💬 Devasena’s Personal Assistant AI is here — ask me anything about her projects, skills, or achievements!
+            💬 Hii, Welcome to my portfolio !
           </p>
         )}
 
@@ -112,7 +112,7 @@ export default function Chatbot() {
           value={input}
           onChange={e => setInput(e.target.value)}
           onKeyDown={e => e.key === 'Enter' ? sendMessage() : null}
-          placeholder='Ask me something about Devasena...'
+          placeholder='Ask me anything...'
           style={{
             flex: 1,
             padding: 14,
