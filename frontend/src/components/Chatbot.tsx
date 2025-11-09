@@ -138,9 +138,32 @@ export default function Chatbot() {
             boxShadow: '0 2px 6px rgba(0,0,0,0.1)',
           }}
         >
+
+
+
           {loading ? '✨ Thinking…' : 'Send'}
         </button>
       </div>
     </div>
   )
 }
+<footer style={{ textAlign: 'center', marginTop: 12 }}>
+  <p style={{ fontSize: '0.85rem', color: '#666' }}>
+    💬 I’m Devasena’s AI-powered portfolio.
+    If something feels off, <a href="mailto:vangavoludevasena@gmail.com" style={{ color: '#6a0dad' }}>let me know</a>.
+  </p>
+  <button
+    onClick={() => window.open('https://calendly.com/devasena', '_blank')}
+    style={{
+      background: '#6a0dad',
+      color: '#fff',
+      border: 'none',
+      padding: '8px 16px',
+      borderRadius: '8px',
+      cursor: 'pointer',
+      marginTop: '6px'
+    }}
+  >
+    📅 Meet Me
+  </button>
+</footer>
